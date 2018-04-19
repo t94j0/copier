@@ -2,6 +2,7 @@
 
   I am a copier, I copy everything from one to another
 
+[![GoDoc](https://godoc.org/github.com/t94j0/copier?status.svg)](https://godoc.org/github.com/t94j0/copier)
 [![wercker status](https://app.wercker.com/status/9d44ad2d4e6253929c8fb71359effc0b/s/master "wercker status")](https://app.wercker.com/project/byKey/9d44ad2d4e6253929c8fb71359effc0b)
 
 ## Features
